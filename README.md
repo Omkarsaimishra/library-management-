@@ -84,4 +84,4 @@ A desktop application for managing library operations with a graphical user inte
 
 1. Clone the repository:
 ```bash
-git clone
+git clone  https://github.com/Omkarsaimishra/library-management-.git
